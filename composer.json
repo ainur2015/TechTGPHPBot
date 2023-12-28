@@ -1,0 +1,23 @@
+{
+    "name": "TechTGPHP/TechTGPHP",
+    "description": "Library Telegram, by AinurBirdin ",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "AinurBirdin",
+            "email": "kalsc12345@vk.com"
+        }
+        
+    ],
+    "require": {
+        "php": ">=7.3",
+        "ext-curl": "*",
+        "ext-json": "*"                                                                                                     
+    },
+    "autoload": {
+        "psr-4": {
+            "TechTGPHP\\TechTGPHP\\": "src/"
+        }
+    }
+}
