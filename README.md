@@ -19,7 +19,7 @@ TechTGPHP — это простая PHP-библиотека, предназна
 PHP 7.0 и выше
 Расширение cURL для PHP
 
-Незабудьте Webhook настроить (Требуется SSL сертификат):
+Не забудьте Webhook настроить (Требуется SSL сертификат):
 https://api.telegram.org/botTOKENBOT/setWebhook?url=https://domen/исходныйфайл.php
 TOKENBOT - Бота токен
 
@@ -28,6 +28,7 @@ TOKENBOT - Бота токен
 
 Также, для вас в архиве test.zip рабочий код предоставили.
 Связь: https://vk.com/kalsc12345
+Разработка любых ботов под заказ: https://vk.com/cxstudio
 
 Пожертвования:
 Yoomoney: 4100 1868 6984 844
